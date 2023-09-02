@@ -1,0 +1,15 @@
+pulgar=1
+pulgar y indice=3
+pulgar y corazon = 5
+pulgar y anular = 9
+pulgar y meñique = 17
+indice y corazon=6
+indice=2
+indice y anular=10
+indice y meñique=18
+corazon=4
+corazon y anular= 12
+corazon y meñique=20
+anular = 8
+anular y meñique=24
+meñique=16
